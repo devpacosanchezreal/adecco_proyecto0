@@ -1,3 +1,3 @@
-#PROYECTO PROGRAMACIÓN FULL STACK
-##Prueba inicial
+# PROYECTO PROGRAMACIÓN FULL STACK
+## Prueba inicial
 Texto de prueba
